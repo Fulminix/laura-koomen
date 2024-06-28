@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/laura-koomen/static/css/main.8994a09e.css",
+    "main.js": "/laura-koomen/static/js/main.faad3b9a.js",
+    "static/js/125.d45e2622.chunk.js": "/laura-koomen/static/js/125.d45e2622.chunk.js",
+    "static/media/4.jpg": "/laura-koomen/static/media/4.382d72852c4e17ca5c46.jpg",
+    "static/media/3.jpg": "/laura-koomen/static/media/3.ebd108d068d0ceaae040.jpg",
+    "static/media/5.jpg": "/laura-koomen/static/media/5.86e98cfec83379f059c3.jpg",
+    "static/media/2.jpg": "/laura-koomen/static/media/2.f1e6d402f23b6dcea3b2.jpg",
+    "static/media/homeBackground.jpg": "/laura-koomen/static/media/homeBackground.28575b1ca95ccf0b74ac.jpg",
+    "static/media/1.jpg": "/laura-koomen/static/media/1.cb298823d0f4040286c3.jpg",
+    "index.html": "/laura-koomen/index.html",
+    "main.8994a09e.css.map": "/laura-koomen/static/css/main.8994a09e.css.map",
+    "main.faad3b9a.js.map": "/laura-koomen/static/js/main.faad3b9a.js.map",
+    "125.d45e2622.chunk.js.map": "/laura-koomen/static/js/125.d45e2622.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8994a09e.css",
+    "static/js/main.faad3b9a.js"
+  ]
+}
