@@ -15,7 +15,7 @@ function Home() {
         <p>Email: LauraKoomen@gmail.com</p>
       </div>
       <div className="containerButton">
-        <Link to="/laura-koomen-ph/Photography" className='button'>WEBSITE</Link> 
+        <Link to="/laura-koomen/Photography" className='button'>WEBSITE</Link> 
       </div>
       <Footer />
     </div>
