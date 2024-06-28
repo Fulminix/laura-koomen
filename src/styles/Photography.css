@@ -1,0 +1,24 @@
+.photography {
+    background-color: white;
+    height: 40vh;
+    font-family: sans-serif;
+}
+
+
+.imagesPhotography {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-auto-flow: dense;
+    flex-wrap: wrap;
+    margin: 0px 200px;
+
+
+}
+
+.imagePhotography img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 15px;
+}

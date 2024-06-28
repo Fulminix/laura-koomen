@@ -1,0 +1,61 @@
+.home {
+    background-image: url('../assets/homeBackground.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    font-family: sans-serif;
+
+}
+
+.headingHome {
+    font-size: 80px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 150px;
+    color: white;
+    font-weight: bold; /* Font weight */
+}
+
+.infoHome {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 200px;
+    font-weight: 400;
+    color: white;
+    font-weight: bold; /* Font weight */
+}
+
+.containerButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh; /* Example height */
+}
+
+.button {
+    display: inline-block; /* Make the link an inline-block element */
+    border: 2px solid white;
+    padding: 15px 25px; /* Padding for button look */
+    background-color: transparent; /* Background color for the button */
+    color: white; /* Text color */
+    text-align: center; /* Center text inside the button */
+    text-decoration: none; /* Remove underline from link */
+    border-radius: 5px; /* Optional: rounded corners */
+    font-size: 16px; /* Font size */
+    font-weight: bold; /* Font weight */
+}
+
+.button:hover{
+    display: inline-block; /* Make the link an inline-block element */
+    border: 2px solid white;
+    padding: 15px 25px; /* Padding for button look */
+    background-color: white; /* Background color for the button */
+    color: black; /* Text color */
+    text-align: center; /* Center text inside the button */
+    text-decoration: none; /* Remove underline from link */
+    border-radius: 5px; /* Optional: rounded corners */
+    font-size: 16px; /* Font size */
+    font-weight: bold; /* Font weight */
+}
