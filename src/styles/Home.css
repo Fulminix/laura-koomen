@@ -4,16 +4,16 @@
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
+    width: auto;
     height: 100vh;
     font-family: sans-serif;
-
 }
 
 .headingHome {
     font-size: 80px;
     font-weight: 400;
     text-align: center;
-    margin-top: 150px;
+    margin-top: 10vh;
     color: white;
     font-weight: bold; /* Font weight */
 }
@@ -21,7 +21,7 @@
 .infoHome {
     font-size: 20px;
     text-align: center;
-    margin-top: 200px;
+    margin-top: 40vh;
     font-weight: 400;
     color: white;
     font-weight: bold; /* Font weight */
@@ -31,7 +31,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 20vh; /* Example height */
+    height: 10vh; /* Example height */
 }
 
 .button {
@@ -59,3 +59,27 @@
     font-size: 16px; /* Font size */
     font-weight: bold; /* Font weight */
 }
+
+@media (max-width: 600px) {
+    .home {
+        height: 100vh;
+        font-family: sans-serif;
+    }
+    .headingHome {
+        font-size: 10vh;
+        font-weight: 400;
+        text-align: center;
+        margin-top: 5vh;
+        color: white;
+        font-weight: bold; /* Font weight */
+    }
+    .infoHome {
+        font-size: 2,5vh;
+        text-align: center;
+        margin-top: 30vh;
+        font-weight: 400;
+        color: white;
+        font-weight: bold; /* Font weight */
+    }
+
+  }
