@@ -6,10 +6,10 @@ import  {BrowserRouter as Router, Route, Routes} from "react-router-dom";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename='/laura-koomen'>
         <Routes>
-          <Route path='/laura-koomen' exact element={<Home />} />
-          <Route path="/laura-koomen/Photography" exact element={<Photography />} />
+          <Route path='/' exact element={<Home />} />
+          <Route path="/Photography" exact element={<Photography />} />
         </Routes>
       </Router>
     </div>

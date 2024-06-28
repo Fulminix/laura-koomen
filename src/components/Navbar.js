@@ -7,7 +7,7 @@ function Navbar() {
     <div className='navbar'>
         <div className="leftSide">Laura Koomen</div>
         <div className="rightSide">
-            <div><Link to="/laura-koomen">HOME</Link></div>
+            <div><Link to="/">HOME</Link></div>
             <div className='dropdown'>
                 <button class="dropbtn">PORTFOLIO</button>
                 <div class="dropdown-content">
