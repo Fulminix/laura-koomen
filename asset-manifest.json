@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/laura-koomen/static/css/main.8994a09e.css",
-    "main.js": "/laura-koomen/static/js/main.faad3b9a.js",
+    "main.js": "/laura-koomen/static/js/main.e6c26150.js",
     "static/js/125.d45e2622.chunk.js": "/laura-koomen/static/js/125.d45e2622.chunk.js",
     "static/media/4.jpg": "/laura-koomen/static/media/4.382d72852c4e17ca5c46.jpg",
     "static/media/3.jpg": "/laura-koomen/static/media/3.ebd108d068d0ceaae040.jpg",
@@ -11,11 +11,11 @@
     "static/media/1.jpg": "/laura-koomen/static/media/1.cb298823d0f4040286c3.jpg",
     "index.html": "/laura-koomen/index.html",
     "main.8994a09e.css.map": "/laura-koomen/static/css/main.8994a09e.css.map",
-    "main.faad3b9a.js.map": "/laura-koomen/static/js/main.faad3b9a.js.map",
+    "main.e6c26150.js.map": "/laura-koomen/static/js/main.e6c26150.js.map",
     "125.d45e2622.chunk.js.map": "/laura-koomen/static/js/125.d45e2622.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8994a09e.css",
-    "static/js/main.faad3b9a.js"
+    "static/js/main.e6c26150.js"
   ]
 }
