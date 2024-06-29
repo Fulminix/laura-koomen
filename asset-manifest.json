@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/laura-koomen/static/css/main.1d33c88b.css",
+    "main.css": "/laura-koomen/static/css/main.89b44634.css",
     "main.js": "/laura-koomen/static/js/main.1f1f18fd.js",
     "static/js/125.d45e2622.chunk.js": "/laura-koomen/static/js/125.d45e2622.chunk.js",
     "static/media/4.jpg": "/laura-koomen/static/media/4.382d72852c4e17ca5c46.jpg",
@@ -10,12 +10,12 @@
     "static/media/homeBackground.jpg": "/laura-koomen/static/media/homeBackground.28575b1ca95ccf0b74ac.jpg",
     "static/media/1.jpg": "/laura-koomen/static/media/1.cb298823d0f4040286c3.jpg",
     "index.html": "/laura-koomen/index.html",
-    "main.1d33c88b.css.map": "/laura-koomen/static/css/main.1d33c88b.css.map",
+    "main.89b44634.css.map": "/laura-koomen/static/css/main.89b44634.css.map",
     "main.1f1f18fd.js.map": "/laura-koomen/static/js/main.1f1f18fd.js.map",
     "125.d45e2622.chunk.js.map": "/laura-koomen/static/js/125.d45e2622.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d33c88b.css",
+    "static/css/main.89b44634.css",
     "static/js/main.1f1f18fd.js"
   ]
 }
