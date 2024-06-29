@@ -93,3 +93,38 @@
 }
   
 .dropdown-content a:hover {background-color: #f1f1f1} 
+
+@media (max-width: 600px) {
+    .navbar {
+        height: 100px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 10px 20px;
+        background-color: white;
+        color: black;
+    }
+    
+    .navbar .leftSide {
+        flex: 50%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        padding-left: 0px;
+        font-size: 32px;
+        justify-content: center;
+    }
+
+    .rightSide {
+        flex: 50%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .rightSide div {
+        margin: 10px;
+    }
+}

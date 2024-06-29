@@ -12,7 +12,7 @@ import img5 from '../assets/imagesPhotography/5.jpg';
 
 const Photography = () => {
   return (
-    <div>
+    <div className='photography'>
       <Navbar />
       <div className='imagesPhotography'>
         {imageData.map((image,index) => (
@@ -27,7 +27,7 @@ const Photography = () => {
 
 }
   
-  export default Photography;
+export default Photography;
 
 const imageData = [
   {

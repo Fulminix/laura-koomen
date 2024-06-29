@@ -1,6 +1,6 @@
 .photography {
     background-color: white;
-    height: 40vh;
+    height: 100vh;
     font-family: sans-serif;
 }
 
@@ -21,4 +21,31 @@
     height: auto;
     display: block;
     border-radius: 15px;
+}
+
+@media (max-width: 600px) {
+    .photography {
+        background-color: white;
+        height: 100vh;
+        width: 100vw;
+        font-family: sans-serif;
+    }
+
+    .imagesPhotography {
+        display: grid;
+        grid-gap: 10px;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        margin: 0px 5vw;
+        grid-auto-flow: dense;
+        flex-wrap: wrap;
+        justify-content: center;
+    
+    }
+    
+    .imagePhotography img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        border-radius: 10px;
+    }
 }
